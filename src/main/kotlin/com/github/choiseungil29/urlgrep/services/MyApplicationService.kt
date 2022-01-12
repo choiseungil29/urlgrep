@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.choiseungil29.urlgrep.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.choiseungil29.urlgrep.MyBundle
 
 class MyApplicationService {
 

@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.choiseungil29.urlgrep.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.choiseungil29.urlgrep.MyBundle
 
 class MyProjectService(project: Project) {
 

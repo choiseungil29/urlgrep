@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.choiseungil29.urlgrep
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
